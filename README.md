@@ -13,3 +13,18 @@ Colors are based around the [Maim](https://chloechantelle.deviantart.com/art/Mai
 1. Ctrl+Shift+P → Package Control: Add Repository → https://github.com/chloechantelle/CocoCola
 
 2. Ctrl+Shift+P → Package Control: Install Package → CocoCola
+
+Or
+
+1. Download this zip
+
+2. Rename to Theme - Coco Cola
+
+3. Move to your packages folder - Preferences/Browse Packages
+
+
+# How to apply
+
+Ctrl+Shift+P → UI: Select Theme → CocoCola
+
+Ctrl+Shift+P → UI: Select Color Scheme → CocoCola
